@@ -1,5 +1,10 @@
 # reaction-timer
 
+## Demo
+
+
+ #### [Preview Demo](https://reaction-timer-cii.pages.dev/)
+
 ## Project setup
 ```
 npm install
@@ -17,3 +22,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
