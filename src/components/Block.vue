@@ -10,6 +10,7 @@ export default {
   data() {
     return {
       showBlock: false,
+      showBlocks: true,
     };
   },
   mounted() {
