@@ -4,6 +4,8 @@
 
 
  #### [Preview Demo](https://reaction-timer-cii.pages.dev/)
+ <a href="http://example.com/" target="_blank">Hello, world!</a>
+
 
 ## Project setup
 ```
