@@ -3,9 +3,9 @@
 ## Demo
 
 
-<h3>
-<a href="https://reaction-timer-cii.pages.dev/" target="_blank">Preview Demo</a>
-</h3> 
+
+<a href="https://reaction-timer-cii.pages.dev/" target="_blank"><h3>Preview Demo</h3></a>
+ 
 
 
 
